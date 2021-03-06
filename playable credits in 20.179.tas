@@ -1,0 +1,137 @@
+console load nk/playablecredits 
+  37
+#lvl_1
+   4,D,X
+   4,R
+   1,L,J
+   7,L
+   7,L,J
+  15,L,D,X
+   1,L,J
+   5,L,K,G
+   2,L,J,G
+   4,L
+  15,L,D,X
+  20,L,D,C
+   1,L,J
+  14,L
+   4,L,J
+   6,L
+  40
+
+#lvl_2
+  11,L
+   1,L,J
+   5,L,U,X
+   9,R
+   1,J,G
+  15,L,D,X
+   2,L,J
+  15,L,D,X
+  28,L,D,C
+   2,L,J
+   5,L,D,X
+  11,L,J,G
+   5,L
+   2,L,J
+   6,L
+   1,L,J
+  27,L,D,X
+  40
+
+#lvl_3
+  12,L,D
+   1,L,J
+  27,L,D,X
+   4,L,J
+  24,L,D,X
+   1,L,J
+   2
+  40
+
+#lvl_4
+   1
+  15,L,D,X
+  13,D
+  18,L,D
+  40
+
+#lvl_5
+  31,L,D
+  40
+
+#lvl_6
+  45,L,D
+  15,L,D,X
+  15,L,D,C
+   1,L,J
+  14,L
+   1,L,J
+  40
+
+#lvl_7
+   2,J
+   6,L,J
+   5,L
+   9,L,D,X
+   6,L,K,G
+  10,L,J,G
+  19,L
+   1,L,J
+   1,L
+  17,L,D,X
+   1
+   1,L
+  17,L,D,X
+  40
+
+#lvl_8
+   1,D
+  54,L,D
+   5,L,D,X
+  40
+
+#lvl_9
+  10,L,D
+   1,D
+   5,L,D
+   1,L
+   1,L,J
+  10,L
+   5,L,D,X
+   1,L,J,G
+  11,L
+   9,L,J
+   1,L
+   1
+  15,L,D,X
+   1,D
+  40
+
+#lvl_10
+   1,D
+   1,L,J
+   3,J
+   7,L,J
+   1,L
+  14,L,D,X
+  40
+
+#lvl_11
+   1,L,D
+   2,L,J
+  15,L,D,X
+  15,L,D,C
+   1,L,J
+  14,L
+   7,L,J
+   5,L
+   2,L,J
+  40
+
+#lvl_12
+   4,L
+   1,L,J
+   2,L
+
+
