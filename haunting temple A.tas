@@ -1,5 +1,5 @@
 #Haunting temple A side
-#in 2:01.958
+#in 2:01.941
 #by tong815
 
 console load haunting_temple/0/1
@@ -117,24 +117,27 @@ console load haunting_temple/0/1
    1
    2,J
    7,L,J
-   1,L,K,G
-  10,K
-   1
+  12,L,K,G
    4,D,X
-   7,L
-  12,L,J
-   4,D,X
-  10,L
-   5,L,J
-   1,L
+   6,L
    1,L,J
+   1,R,K,G
+   6,L,J
+   4,D,X
    8,L
-   4,D,X
-  10,L
    1,L,J
-  14,L,D,X
+   2,L
+  10,L,D,X
+   8,L,J
+   5,L
+   2,L,J
+   6,L
    1,L,J
-   6,L,D,X
+   7,L,D,X
+   1,L,J
+   7,L
+   1,L,J
+   7,L,D,X
   43
 
 #lvl_1d
@@ -1061,12 +1064,12 @@ console load haunting_temple/0/1
    1,K,G
    5,R
    2
-  10,R,D,X
+  14,R,D,X
    1,R,J
-   4,R
-  16,R,D,X
-  19,L,D
-  14,L,D,X
+  17,R,D,X
+  17,L,D
+   4,D,X
+  10,L
    1,R,J
    5,R,D,X
   13,R,G
